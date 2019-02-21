@@ -1,0 +1,41 @@
+commit e3d9b029c56d07efac639d447212ecd41fddea68
+Author: Connor Pashak <cmpashak@mymail.mines.edu>
+Date:   Thu Feb 21 14:33:54 2019 -0700
+
+    Changed eye separation
+
+commit d9885f1d6cb5d46d472b1ff4e836b6e924ee7509
+Author: Bradley Helliwell <bhelliwell@mymail.mines.edu>
+Date:   Thu Feb 21 14:32:03 2019 -0700
+
+    Changed the cat's eyes to orange. Sorry I assumed its gender last time I pushed.
+
+commit c2146a9302cd8c097363497140a4e7df9ebc6399
+Author: Connor Pashak <cmpashak@mymail.mines.edu>
+Date:   Thu Feb 21 14:30:13 2019 -0700
+
+    Moved mouth down and changed body color to magenta
+
+commit 811be677bf4745bb20ea7a71b8d27194d23f434b
+Author: Bradley Helliwell <bhelliwell@mymail.mines.edu>
+Date:   Thu Feb 21 14:27:44 2019 -0700
+
+    Changed his mouth color from pink to blue
+
+commit cfd9da82ad6ebf50c1d2ea841d303123aea60641
+Author: Connor Pashak <cmpashak@mymail.mines.edu>
+Date:   Thu Feb 21 14:26:36 2019 -0700
+
+    Changed eyes to red, doubled the width and height of the eyes
+
+commit 073520bc50c174005bf343479d07878b73be279a
+Author: Bradley Helliwell <bhelliwell@mymail.mines.edu>
+Date:   Thu Feb 21 14:22:03 2019 -0700
+
+    Changed the cats eyes to blue from green.
+
+commit cbfd5dfc2cc6282621c4c176991a720a77133abf
+Author: Connor Pashak <cmpashak@mymail.mines.edu>
+Date:   Thu Feb 21 14:16:40 2019 -0700
+
+    Initial commit

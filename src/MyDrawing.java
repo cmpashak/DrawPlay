@@ -1,3 +1,5 @@
+//Connor Pashak and Bradley Helliwell
+
 import java.awt.Graphics;
 
 import javax.swing.JFrame;
